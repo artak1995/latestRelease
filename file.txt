@@ -1,0 +1,5 @@
+repository,min_version
+abc/def,1.0.2
+kubernetes/kubernetes,1.8.0
+prometheus/prometheus,1.2.0
+coreos/flannel,0.6.1
